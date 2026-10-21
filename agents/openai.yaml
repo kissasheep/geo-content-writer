@@ -1,0 +1,4 @@
+interface:
+  display_name: "GEO Content Writer"
+  short_description: "用真实资料和图片生成完整、自然、正文配图的中文GEO内容"
+  default_prompt: "Use $geo-content-writer to create a complete sourced Chinese GEO content pack with natural writing and inline matched real images."
